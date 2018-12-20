@@ -1,6 +1,6 @@
 {
   "name": "hyan",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A personal card for Hyan Mandian (@hyanmandian)",
   "main": "index.js",
   "bin": {
